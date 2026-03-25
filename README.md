@@ -1,6 +1,5 @@
-# Student-Performance:-
-### 🏫 Student Performance Predictor  
-What the project does
+# Student-Performance-predictor:-
+### What the project does:-
 The Student Performance Predictor is a Python-based machine learning project that predicts a student’s final marks based on their study time, absences, and internal exam scores (M1 and M2).
 The program also determines if the student passes or fails and assigns a grade (A–F) according to the predicted marks.
 This project is useful for educators or students who want to estimate academic performance and identify students at risk.
